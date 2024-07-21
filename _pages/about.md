@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of California, Los Angeles</a>. Ph.D. student in ECE Department
+subtitle: Ph.D. student at University of California, Los Angeles
 
 profile:
   align: right
-  image: berylSui.jpg
+  image: fox.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>email: wenhui.sui@ucla.edu</p>
@@ -17,9 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing Ph.D. degree in Electrical Engineering at UCLA. I work under Professor Richard Wesel in the <a href="http://www.seas.ucla.edu/csl/#/">UCLA Communications Systems Laboratory (CSL)</a>. My research interests include error-correcting codes and channel coding theory, as well as the broader information theory and signal processing landscapes.
+I am currently pursuing Ph.D. degree in Electrical Engineering at UCLA. I work under Professor Richard Wesel in the <a href="http://www.seas.ucla.edu/csl/#/">UCLA Communications Systems Laboratory (CSL)</a>. 
 
-Previously, I received the B.S. and M.S. degrees in electrical engineering from the UCLA in 2023. My honors include 2022 <a href="https://www.ee.ucla.edu/fast-track-program/">UCLA ECE Fast Track to Success Honors</a> and 2023 UCLA ECE Departmental Scholar.
+My research interests include error-correcting codes and channel coding theory, as well as the broader information theory and signal processing landscapes.
+
+Previously, I received the B.S. and M.S. degrees in electrical engineering from the UCLA in 2023. My honors include 2022 UCLA ECE Fast Track to Success Honors and 2023 UCLA ECE Departmental Scholar.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
