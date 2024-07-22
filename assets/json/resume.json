@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Wenhui (Beryl) Sui",
+    "label": "PhD student at UCLA",
+    "image": "berylSui.jpg",
+    "email": "wenhui.sui@ucla.edu",
+    "phone": "",
+    "url": "https://berylbir.github.io",
+    "summary": "FILL THIS OUT LATER",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/berylsui88/"
       }
     ]
   },
