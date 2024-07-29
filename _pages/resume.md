@@ -2,9 +2,9 @@
 layout: cv
 # permalink: /cv/
 permalink: /assets/pdf/berylresumeCV.pdf
-title: cv
+title: resume
 nav: true
-nav_order: 5
+nav_order: 3
 cv_pdf: assets/pdf/berylresumeCV.pdf
 description:
 toc:
